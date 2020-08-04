@@ -1,0 +1,56 @@
+header{
+    background:#78e08f ;
+    margin-top: 50px ;
+    text-align: center;
+    }
+
+body {
+    background:#0a3d62 ;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 600px;
+
+}
+
+h2{color: #b8e994;
+    
+}
+
+.mainContent{
+    width: 96%;
+    min-width: 90%;
+    height: 300px;
+    margin: auto;
+    }
+
+.roundProfile{  
+    float: left;
+    border: 0px;
+    margin: 10px;
+    border-style: solid;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.bioPanel{
+    width: 70%;
+    float: right; 
+    background: #3c6382;
+    height: inherit;
+    
+    
+}
+.bioPanel h2{}
+.bioPanel p{}
+
+.sidePanel{
+    float: left;
+    width: 30%;
+    height: inherit ;
+    background: #4c799e
+}
+
+.clearfix {
+    overflow: auto;
+  }
+  
